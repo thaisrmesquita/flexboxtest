@@ -1,0 +1,12 @@
+{
+  "name": "flexboxtest",
+  "displayName": "flexboxtest",
+  "expo": {
+    "name": "flexboxtest",
+    "slug": "flexboxtest",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
